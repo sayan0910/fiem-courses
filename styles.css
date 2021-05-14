@@ -30,3 +30,8 @@ hr{
   margin-left: 600px;
   margin-top: 170px;
 }
+@media(max-width : 600px){
+.row{
+  text-align : center;
+}
+}
